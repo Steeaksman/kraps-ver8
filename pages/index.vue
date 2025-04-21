@@ -12,7 +12,7 @@
     <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div class="flex items-end justify-between">
             <div class="flex-1 text-center lg:text-center">
-                <h2 class="text-2xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">A Resource for Serious Craps Players</h2>
+                <h2 class="text-2xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">A Resource for Serious Craps Players!</h2>
                 <h1 class="py-10 text-xl w-1/2 mx-auto bg-gray-50 sm:py-16 lg:py-24">
     Whether you're a seasoned pro or a newbie, this site is the resource for serious craps players.
      Search for casinos throughout the country, read and write trip reports and catch up 
@@ -55,12 +55,12 @@
 
                     <a href="#" title="" class="inline-flex items-center justify-center pb-0.5 mt-5 text-base font-semibold text-blue-600 transition-all duration-200 border-b-2 border-transparent hover:border-blue-600 focus:border-blue-600">
                         
-                        <NuxtLink to="/searchchoose"> View Casino List</NuxtLink></a>
+                        <NuxtLink to="/searchchoose"> View Casino List</NuxtLink>
                         
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                         </svg>
-                    
+                    </a>
                 </div>
             </div>
 
@@ -111,7 +111,7 @@
                     <p class="mt-4 text-base text-gray-600">Stay up to date with the latest news from the world of craps, including game strategies, tournament highlights, and exciting developments in top casinos. We also bring you exclusive casino promotions, from bonus offers to VIP rewards tailored for craps players. Whether you're a seasoned shooter or just getting started, our updates ensure you never miss a great roll or a special deal! </p>
                     <a href="#" title="" class="inline-flex items-center justify-center pb-0.5 mt-5 text-base font-semibold text-blue-600 transition-all duration-200 border-b-2 border-transparent hover:border-blue-600 focus:border-blue-600">
                         <!-- View Specials and News -->
-                        <NuxtLink to="/offersnews"> View Specials and News</NuxtLink>
+                        <NuxtLink to="/ebooks"> View Specials and News</NuxtLink>
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                         </svg>

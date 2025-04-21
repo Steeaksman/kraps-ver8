@@ -2,7 +2,7 @@
     <!-- TRhis is the wrapper for the page -->
     <section class="bg-slate-100 min-h-screen">
 
-<div class="flex flex-row bg-slate-100  justify-evenly mb-8" >
+<div class="flex flex-row bg-slate-100  justify-evenly mb-8  mt-24" >
         
 
 <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">

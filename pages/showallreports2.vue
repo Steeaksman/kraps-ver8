@@ -1,13 +1,12 @@
 <template>
-    <div class="container mx-auto px-6 lg:px-0 py-24 text-center">
     <div>
-        <div  class="grid grid-cols-1 sm:grid-cols-1 gap-4">
+        <div  class="grid grid-cols-2 sm:grid-cols-2 gap-4">
 <!-- Loop thru the whatnots ref -->
 <div
         v-for="whatnot in whatnots"
         :key="whatnots.id"
          
-          class="flex max-w-[600px]  py-5 px-2  mt-14.5  shadow-xl rounded-xl justify-between bg-white hover:bg-yellow-50">
+          class="flex max-w-[600px]  py-5 px-2  mt-14.5  shadow-xl rounded-xl justify-between bg-white">
           <div class= "flex-col">
 
 
@@ -36,7 +35,6 @@
 
           </div>
     </div>
-</div>
 </div>
 </template>
 

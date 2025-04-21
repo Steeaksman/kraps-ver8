@@ -11,7 +11,12 @@ export default {
      "./node_modules/flowbite/**/*.{js,ts}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      container:{
+        center: true,
+        padding: "2rem"
+      }
+    },
   },
   plugins: [
     require('flowbite/plugin')

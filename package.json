@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/image": "^1.10.0",
     "@prisma/client": "^6.3.0",
     "@supabase/supabase-js": "^2.48.1",
     "dayjs": "^1.11.13",
